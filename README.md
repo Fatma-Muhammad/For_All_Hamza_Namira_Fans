@@ -2,25 +2,11 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Demo](#demo)
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Used For](#used-for)
-- [Improvements](#improvements)
-- [Problems Faced](#problems-faced)
-- [Technologies Used](#technologies-used)
-- [Links](#links)
-- [Getting Started](#getting-started)
-
 ## Introduction
 
 The Music Player is a web application that allows users to play music in their browser. It offers a user-friendly interface with various controls, including play/pause, next, previous, repeat song, shuffle songs list, and volume adjustment. The player supports two themes: light and dark.
 
 ## Demo
-
-
-https://github.com/yashksaini/Music-Player/assets/101442489/87dc1d4b-36f2-46c6-953d-91e1e6a519a0
 
 
 
